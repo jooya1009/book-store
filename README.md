@@ -7,3 +7,8 @@
  - InputText.tsx 업로드
  - Header.tsx 업로드
  - Footer.tsx 업로드
+
+## [2월 04일] 회원가입 기능 구성 후 결과 코드 업로드
+ - auth.api.ts
+ - useAlert.ts
+ - Signup.tsx
